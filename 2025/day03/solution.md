@@ -3,7 +3,7 @@
 
 Task 1: View the content of a file and display line numbers.
 
-![image](https://github.com/Bhavin213/90DaysOfDevOps/blob/master/2024/day03/image/task%201.png)
+![image](https://github.com/DJTJ21/90DaysOfDevOps/blob/main/2025/day03/image/task1.png)
 
 Task 2: Change the access permissions of files to make them readable, writable, and executable by the owner only.
 
