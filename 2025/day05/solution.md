@@ -37,4 +37,4 @@
    
    ![image](https://github.com/DJTJ21/90DaysOfDevOps/blob/main/2025/day05/image/task4.png)
 
-[LinkedIn](https://www.linkedin.com/in/bhavin-savaliya/).
+[LinkedIn](www.linkedin.com/in/romuald-djeteje).
